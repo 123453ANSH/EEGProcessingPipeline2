@@ -1,7 +1,7 @@
 # EEGProcessingPipeline2
 EEG Processing Pipeline in python
 
-This EEG Processing pipeline starts with the preprocessing step. For preprocessing, this pipeline has two separate scripts, each of which process EEG data from a different source file type. The two EEG scripts are below:
+This EEG Processing pipeline starts with the preprocessing step. For preprocessing, this pipeline has two separate scripts, each of which processes EEG data from a different source file type. The two EEG scripts are below:
 
 Script 1 - EEG_preprocessing.py - can preprocess EEG data from the .bdf file type.
 
